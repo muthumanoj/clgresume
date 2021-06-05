@@ -47,11 +47,14 @@ div {
    right: 0px;
     top: 255px;
 }
-.h{
+a{
+    text-decoration: none;
+}
+.r1{
+    width: 1050px;
     position: absolute;
-    width: 500px;
-    top: 50px;
-
+    bottom: -995px;
+    right: -50px;
 }
 
 
@@ -69,7 +72,7 @@ span {
 }
 pre {
     position: absolute;
-    left: 40px;
+    left: 35px;
     top: 230px;
 }
 
@@ -303,6 +306,5 @@ i{
     border: 3px dotted orange;
     border-radius: 50%;
     padding: 5px;
-    background-color: orange
-    ;
+    background-color: orange;
 }
