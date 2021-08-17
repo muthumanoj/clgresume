@@ -9,7 +9,7 @@
 padding: 70px 200px;
 width: 600px;
 position: absolute;
-left: 50px;
+left: 100px;
 top: 3px;
 height: 100px;
 
@@ -81,7 +81,7 @@ pre {
 
     width: 370px;
   position: absolute;
-  left: 75px;
+  left: 120px;
   top: 260px;
   border-right: 2px solid gray;
 
@@ -92,7 +92,7 @@ pre {
 .profile {
     width: 450px;
     position: absolute;
-    left: 75px;
+    left: 120px;
     top: 332px;
     text-align: justify;
  }
@@ -100,7 +100,7 @@ pre {
 .skills {
     position: absolute;
     width: 380px;
-    left: 75px;
+    left: 120px;
     top: 375px;
 }
 
@@ -117,7 +117,7 @@ pre {
     width: 420px;
     position: absolute;
     top: 470px;
-    left:75px;
+    left:120px;
     
    
  
@@ -135,14 +135,14 @@ pre {
     width: 423px;
         position: absolute;
         top: 620px;
-        left:75px;
+        left:120px;
         
 }
 .work{
     width: 440px;
     position: absolute;
-    top: 800px;
-    left: 75px;
+    top: 820px;
+    left: 120px;
 }
 .em{
     width: 440px;
@@ -155,7 +155,7 @@ pre {
     width: 430px; 
     position :absolute;
     top: 265px;
-    left:600px;
+    left:645px;
     padding-right: 50px;
     border:2px grey;
     
@@ -174,7 +174,7 @@ pre {
     width: 450px;
     position :absolute;
     top:590px;
-    left:600px;
+    left:645px;
     padding-right: 50px;
     border:2px  grey;
  }
@@ -238,7 +238,7 @@ p {
     position: absolute;
     width: 432px;
     top: 930px;
-    left: 600px;
+    left: 645px;
   
 }
 .famdet {
