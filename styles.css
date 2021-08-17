@@ -53,7 +53,7 @@ a{
 .r1{
     width: 1050px;
     position: absolute;
-    bottom: -995px;
+    bottom: -900px;
     right: -50px;
 }
 
@@ -86,7 +86,7 @@ pre {
   border-right: 2px solid gray;
 
   padding-right: 112px;
-  height: 940px;
+  height: 840px;
 
 }
 .profile {
@@ -127,21 +127,21 @@ pre {
 .addski {
     width: 630px;
         position: absolute;
-        top: 596px;
+        top: 540px;
         left:165px;
         
 }
 .add {
     width: 423px;
         position: absolute;
-        top: 670px;
+        top: 620px;
         left:75px;
         
 }
 .work{
     width: 440px;
     position: absolute;
-    top: 900px;
+    top: 800px;
     left: 75px;
 }
 .em{
@@ -173,7 +173,7 @@ pre {
  .edu { 
     width: 450px;
     position :absolute;
-    top:575px;
+    top:590px;
     left:600px;
     padding-right: 50px;
     border:2px  grey;
